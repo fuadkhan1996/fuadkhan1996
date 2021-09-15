@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am Fuad Khan 👋
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=fuadkhan1996&column=3&margin-w=15&margin-h=15&bg=false&frame=false&theme=onedark"/>
+
+  </a>
+ </div>
 
 <!--
 **fuadkhan1996/fuadkhan1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
