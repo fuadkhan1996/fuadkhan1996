@@ -6,7 +6,6 @@ I'm a Full-Stack Developer skilled in Ruby on Rails, JavaScript, and React. I lo
 💬 Ask me about anything related to JavaScript, React, or Ruby on Rails.
 📫 How to reach me: khanfuad1996@gmail.com or [LinkedIn](https://linkedin.com/in/fuadkhan96)
 😄 Pronouns: He/Him
-⚡ Fun fact: I love playing chess and have a pet cat named Pixel.
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
