@@ -1,6 +1,6 @@
 ### Hi there, I am Fuad Khan 👋
 
-I'm a Full-Stack Developer skilled in Ruby on Rails, JavaScript, and React. I love building applications that solve real-world problems and have a passion for clean, efficient code.
+I'm a Full-Stack Developer skilled in Ruby on Rails, JavaScript, TypeScript, ReactJS, and NextJS. I love building applications that solve real-world problems and have a passion for clean, efficient code.
 
 🌱 I’m currently learning more about DevOps, AI, and cloud architectures.
 💬 Ask me about anything related to JavaScript, React, or Ruby on Rails.
