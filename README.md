@@ -5,7 +5,7 @@ I'm a Full-Stack Developer skilled in Ruby on Rails, JavaScript, TypeScript, Rea
 🌱 I’m currently learning more about DevOps, AI, and cloud architectures.
 💬 Ask me about anything related to JavaScript, React, or Ruby on Rails.
 📫 How to reach me: khanfuad1996@gmail.com or [LinkedIn](https://linkedin.com/in/fuadkhan96)
-😄 Pronouns: He/Him
+😄
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
