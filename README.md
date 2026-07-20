@@ -98,7 +98,69 @@ I particularly enjoy working on:
 
 ## GitHub Activity
 
-Most of my recent production work is maintained in private repositories.
+<div align="center">
+
+<img
+  width="100%"
+  src="./profile-summary-card-output/github_dark/0-profile-details.svg"
+  alt="Fuad Khan's GitHub contribution chart"
+/>
+
+<br />
+<br />
+
+<img
+  width="49%"
+  src="./profile-summary-card-output/github_dark/3-stats.svg"
+  alt="Fuad Khan's GitHub statistics"
+/>
+
+<img
+  width="49%"
+  src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
+  alt="Fuad Khan's most-used languages by commits"
+/>
+
+<br />
+<br />
+
+<img
+  width="49%"
+  src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
+  alt="Fuad Khan's repositories by language"
+/>
+
+<img
+  width="49%"
+  src="./profile-summary-card-output/github_dark/4-productive-time.svg"
+  alt="Fuad Khan's productive coding time"
+/>
+
+</div>
+
+> Most of my recent production work is maintained in private repositories.
+
+### Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    alt="Fuad Khan's GitHub contribution graph"
+    src="./assets/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
 
 <div align="center">
 
