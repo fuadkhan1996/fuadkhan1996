@@ -5,7 +5,7 @@
 ### Lead Software Engineer building reliable SaaS platforms, AI-powered workflows, and cloud-native systems
 
 [![DataCrest](https://img.shields.io/badge/DataCrest-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mydatacrest.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/fuadkhan96](https://linkedin.com/in/fuad-khan-fk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fuad-khan-fk)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanfuad1996@gmail.com)
 
 </div>
@@ -32,11 +32,11 @@ My work spans backend architecture, cloud infrastructure, frontend development, 
 
 | Area | What I Work With |
 |---|---|
-| **Backend Architecture** | Ruby on Rails, REST APIs, background processing, service-oriented design |
-| **AI and Automation** | LLM workflows, OCR, document extraction, structured data generation |
-| **Cloud Infrastructure** | AWS, Lambda, S3, SQS, SES, EC2, Elastic Beanstalk |
-| **Frontend Engineering** | React, Next.js, TypeScript, JavaScript |
-| **Data and Integrations** | PostgreSQL, third-party APIs, event-driven workflows |
+| **Backend Architecture** | Ruby on Rails, REST APIs, background processing, and service-oriented design |
+| **AI and Automation** | LLM workflows, OCR, document extraction, and structured data generation |
+| **Cloud Infrastructure** | AWS, Lambda, S3, SQS, SES, EC2, and Elastic Beanstalk |
+| **Frontend Engineering** | React, Next.js, TypeScript, and JavaScript |
+| **Data and Integrations** | PostgreSQL, third-party APIs, and event-driven workflows |
 | **Engineering Leadership** | Architecture, code reviews, technical planning, and mentoring |
 
 ---
@@ -65,7 +65,7 @@ My work spans backend architecture, cloud infrastructure, frontend development, 
 ### AI and Document Processing
 
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM_Workflows-412991?style=flat-square&logo=openai&logoColor=white)
+![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-412991?style=flat-square&logo=openai&logoColor=white)
 ![OCR](https://img.shields.io/badge/OCR-Document_Processing-5A45FF?style=flat-square)
 
 </div>
@@ -98,27 +98,14 @@ I particularly enjoy working on:
 
 ## GitHub Activity
 
+Most of my recent production work is maintained in private repositories.
+
 <div align="center">
 
-  <a href="https://github.com/fuadkhan1996">
-    <img
-      height="170"
-      src="https://github-stats-extended.vercel.app/api?username=fuadkhan1996&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"
-      alt="Fuad Khan's GitHub statistics"
-    />
-  </a>
-
-  <a href="https://github.com/fuadkhan1996">
-    <img
-      height="170"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=fuadkhan1996&layout=compact&hide_border=true&theme=transparent&langs_count=6"
-      alt="Fuad Khan's most-used languages"
-    />
-  </a>
+[![GitHub Profile](https://img.shields.io/badge/View_My-GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fuadkhan1996)
+[![Public Repositories](https://img.shields.io/badge/Explore-Public_Repositories-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fuadkhan1996?tab=repositories)
 
 </div>
-
-> Most of my recent production work is maintained in private repositories.
 
 ---
 
@@ -158,7 +145,7 @@ I'm always interested in discussing software architecture, Ruby on Rails, AI aut
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fuad_Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/fuadkhan96](https://linkedin.com/in/fuad-khan-fk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fuad_Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fuad-khan-fk)
 [![GitHub](https://img.shields.io/badge/GitHub-fuadkhan1996-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fuadkhan1996)
 [![Email](https://img.shields.io/badge/Email-khanfuad1996%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khanfuad1996@gmail.com)
 
