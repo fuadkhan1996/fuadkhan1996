@@ -5,7 +5,7 @@
 ### Lead Software Engineer building reliable SaaS platforms, AI-powered workflows, and cloud-native systems
 
 [![DataCrest](https://img.shields.io/badge/DataCrest-Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mydatacrest.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/fuadkhan96](https://www.linkedin.com/in/fuad-khan-fk))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/fuadkhan96](https://linkedin.com/in/fuad-khan-fk)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanfuad1996@gmail.com)
 
 </div>
@@ -158,7 +158,7 @@ I'm always interested in discussing software architecture, Ruby on Rails, AI aut
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fuad_Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/fuadkhan96](https://www.linkedin.com/in/fuad-khan-fk))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fuad_Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/fuadkhan96](https://linkedin.com/in/fuad-khan-fk)
 [![GitHub](https://img.shields.io/badge/GitHub-fuadkhan1996-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fuadkhan1996)
 [![Email](https://img.shields.io/badge/Email-khanfuad1996%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khanfuad1996@gmail.com)
 
